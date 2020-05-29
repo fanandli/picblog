@@ -1,0 +1,6 @@
+﻿  driveri.cpp
+C:\Users\WIN10\Desktop\hhhhh\windows\libs\driveri\driveri.cpp(28,59): error C2661: “SockEx::SockEx”: 没有重载函数接受 2 个参数
+C:\Users\WIN10\Desktop\hhhhh\windows\libs\driveri\driveri.cpp(115,12): warning C4309: “=”: 截断常量值
+C:\Users\WIN10\Desktop\hhhhh\windows\libs\driveri\driveri.cpp(117,12): warning C4309: “=”: 截断常量值
+C:\Users\WIN10\Desktop\hhhhh\windows\libs\driveri\driveri.cpp(119,12): warning C4309: “=”: 截断常量值
+C:\Users\WIN10\Desktop\hhhhh\windows\libs\driveri\driveri.cpp(120,12): warning C4309: “=”: 截断常量值
